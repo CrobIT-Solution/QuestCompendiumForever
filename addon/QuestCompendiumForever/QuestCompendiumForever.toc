@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: |cffffd46bQuest Compendium Forever|r
+## Notes: Quest-Nachschlagewerk mit Suche, Fortschritt, Karte und Questketten (Alpha)
+## Author: Blackiron
+## Version: 0.0.1-alpha
+## SavedVariables: QuestCompendiumForeverDB
+## SavedVariablesPerCharacter: QuestCompendiumForeverChar
+## X-Category: Quests
+## X-Game-Version: Forever
+
+Data.lua
+Core.lua
+Map.lua
+UI.lua

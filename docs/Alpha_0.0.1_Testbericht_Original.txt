@@ -1,0 +1,25 @@
+Quest Compendium Forever - Alpha 0.0.1
+Testbericht / Lieferumfang vom 10.11.2026
+
+Prüfung                          Ergebnis
+----------------------------------------
+TOC + Dateien vorhanden         PASS
+Interface 16001 gesetzt          PASS
+Lua-Syntax (Lua 5.4 Parser)     PASS, alle 4 Dateien
+Mock-UI Initialisierung         PASS
+Mock-Questliste/Suche           PASS
+Mock-Questketten                PASS
+Mock-Kartenmarker               PASS
+Mock-WoWHead-URL                PASS
+Mock Annahme/Abgabe             PASS
+Mock Speicherung Fenster        PASS
+Start im echten WoW Forever     NICHT GETESTET
+Darstellung im echten Client    NICHT GETESTET
+
+Wichtig: Das Testprogramm verwendet Lua 5.4 als Test-VM mit simulierten
+WoW-APIs. WoW Forever nutzt Lua 5.1 plus eigene Spiel-APIs und kann
+insbesondere bei Frames, Inhalten und Größen abweichen. Das ist kein
+Nachweis für vollständige Kompatibilität im echten Spiel.
+
+Keine Fremd-Questdatenbank oder WoWHead-Daten übernommen. Keine Kosten,
+keine Repository-Änderung und kein externer Build-/Deploymentdienst.

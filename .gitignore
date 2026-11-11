@@ -1,0 +1,7 @@
+# Lokal generierte Dateien, keine automatisierten Workflows
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.log
+.tmp/

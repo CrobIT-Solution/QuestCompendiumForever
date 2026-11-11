@@ -1,8 +1,5 @@
 # Quest Compendium Forever
 
-> **Importstatus:** Das Repository ist privat eingerichtet. Die Übertragung des geprüften Bestands ist noch nicht vollständig; insbesondere Grafiken und die unveränderte Alpha-ZIP fehlen noch auf GitHub. Dieses Repository ist daher noch kein vollständiges Projektarchiv.
-
-
 Privates Entwicklungsrepository des Addons **Quest Compendium Forever** für **WoW Forever**.  
 Entwickler/Maintainer: **Blackiron**. Repository-Ziel: **CrobIT-Solution/QuestCompendiumForever**.
 
